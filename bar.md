@@ -7,7 +7,7 @@ In a previous article, we learned how hackers uploaded a Ransomware script to Py
 
 ## LEGAL DISCLAIMER 
 
-When it comes to the legality of encryption software, it is legal to possess. However, installing it on a computer for the purpose of malicious intent you obviously violating federal law. Additionally, please be careful about accidentally encrypting your own personal files, and losing your encryption key... If you do, then it's [Game Over Man, Game Over!](http://www.moviesoundclips.net/movies1/aliens/gameover.mp3) Remember, the goal of this tutorial is for `security awareness`, and `educational purposes`. 
+When it comes to the legality of encryption software, it is legal to possess. However, installing it on a computer for the purpose of malicious intent you obviously violating federal law. Additionally, please be careful about accidentally encrypting your own personal files, and losing your encryption key... If you do, then it's 🔉 [Game Over Man, Game Over!](http://www.moviesoundclips.net/movies1/aliens/gameover.mp3) Remember, the goal of this tutorial is for `security awareness`, and `educational purposes`. 
 
 ## What is Ransomware?
 
