@@ -216,3 +216,20 @@ Let's open and examine our other important files again. As you can see from the 
 
 ![Image of important files](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahlkhoo9t7pasjhs9li5.png)
 
+## How to Protect Yourself
+
+Keep in mind, if you are ever the victim of a ransomware attack, always remember, `paying the ransom` does `not guarantee` you will get the private key to restore your data. Instead, protect your files by using protective measures in your day-to-day operations. Below are a few best practices for actions you can take to reduce your risk of a ransomware attack:
+ 
+1. Make sure Your antivirus software is up to date.
+2. Scan and filter emails before they reach the user.
+3. never click on unsafe links in emails.
+4. Have a plan for how to reposnd to a rasonomware attack, and test it!
+5. Raise awareness about ransomware attacks via Security Awareness Training .
+6. Enforce the use of strong & secure passwords.
+7. Maintain [data reduancy](https://www.techtarget.com/searchstorage/definition/redundant).
+
+## Conclusions
+
+After reading this tutorial you should now have a good understanding of how a simple Ransomware virus can be written using Python. 
+Remember, this tutorial and ransomware script are strictly for educational purposes and it shouldn’t be employed for malicious purposes. 
+If you found this article interesting or have any questions, please leave a comment. 
